@@ -1,7 +1,7 @@
 # chr-07.github.io
 Mi página completa con HTML, Javascript y CSS
 
-Sitio we desplegado: https://chr-07.github.io/
+Sitio web desplegado: https://chr-07.github.io/
 
 Video Demostración del funcionamiento de la página: https://www.loom.com/share/38d515e04067443b9cfbb05b3efb6945
 
